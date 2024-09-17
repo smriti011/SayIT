@@ -44,14 +44,6 @@ Enter Gmail and password :
 ![Screenshot 2024-09-15 231800](https://github.com/user-attachments/assets/57a0ba91-fa81-4ef3-a5b4-d348e72fced7)
 
 
-**Add Blog**
-
-![AddBlogs](https://github.com/user-attachments/assets/4a1df91d-0f84-4d38-b102-cbe790ff70d7)
-
-
-![Screenshot 2024-09-15 231245](https://github.com/user-attachments/assets/71673b62-ed80-4788-af50-654699c26ccc)
-
-
 **My Blogs -> Home Page**
 
 ![Screenshot 2024-09-15 230203](https://github.com/user-attachments/assets/efacc4f1-27b2-4b97-a658-7610079c7668)
@@ -60,6 +52,14 @@ Enter Gmail and password :
 **My Blogs :**
 
 ![Screenshot 2024-09-17 025033](https://github.com/user-attachments/assets/f5bfbd60-2b87-4265-90e7-b7853e1a86db)
+
+
+**Add Blog**
+
+![AddBlogs](https://github.com/user-attachments/assets/4a1df91d-0f84-4d38-b102-cbe790ff70d7)
+
+
+![Screenshot 2024-09-15 231245](https://github.com/user-attachments/assets/71673b62-ed80-4788-af50-654699c26ccc)
 
 
 **Logout :**
