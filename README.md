@@ -46,6 +46,9 @@ Enter Gmail and password :
 
 **Add Blog**
 
+![AddBlogs](https://github.com/user-attachments/assets/4a1df91d-0f84-4d38-b102-cbe790ff70d7)
+
+
 ![Screenshot 2024-09-15 231245](https://github.com/user-attachments/assets/71673b62-ed80-4788-af50-654699c26ccc)
 
 
