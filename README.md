@@ -56,6 +56,10 @@ Enter Gmail and password :
 
 **Add Blog**
 
+* TITLE Box
+
+* DESCRIPTION Box 
+
 ![AddBlogs](https://github.com/user-attachments/assets/4a1df91d-0f84-4d38-b102-cbe790ff70d7)
 
 
