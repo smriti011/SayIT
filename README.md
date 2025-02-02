@@ -66,4 +66,3 @@ Enter Gmail and password :
 ![Screenshot 2024-09-15 231245](https://github.com/user-attachments/assets/71673b62-ed80-4788-af50-654699c26ccc)
 
 
-**Logout :**
